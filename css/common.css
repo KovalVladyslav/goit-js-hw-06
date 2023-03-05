@@ -27,10 +27,6 @@ button {
   gap: 30px;
   flex-wrap: wrap;
 }
-img {
-  width: 640px;
-  height: 640px;
-}
 ul {
   list-style: none;
 }
